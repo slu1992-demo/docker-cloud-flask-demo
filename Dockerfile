@@ -1,6 +1,6 @@
 FROM python:2.7
 
-MAINTAINER slu <1@slu1992.com>
+MAINTAINER Peng Xiao <xiaoquwl@gmail.com>
 
 COPY . /skeleton
 WORKDIR /skeleton
