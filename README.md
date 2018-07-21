@@ -1,3 +1,5 @@
+[![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
+
 [![build status](https://gitlab-demo.com/Demo/flask-skeleton/badges/master/build.svg)](https://gitlab-demo.com/Demo/flask-skeleton/commits/master)
 [![coverage report](https://gitlab-demo.com/Demo/flask-skeleton/badges/master/coverage.svg)](https://gitlab-demo.com/Demo/flask-skeleton/commits/master)
 
